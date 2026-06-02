@@ -1,13 +1,13 @@
 # Avraham Bicha
 **Junior Software Developer | Backend Engineer**
 
-I am a Computer Science graduate from Bar-Ilan University with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows by responsibly leveraging AI tools like Claude Code.
+I am a Computer Science graduate from Bar-Ilan University with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python, Java, SQL
-* **AI Tooling & Automation:** Claude Code, local context management scripts
+* **Languages:** Python, Java, SQL.
+* **AI Tooling & Automation:** Claude Code.
 * **Environments:** Linux shell scripting
 
 ---
