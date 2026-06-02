@@ -27,3 +27,4 @@ I am a Computer Science graduate from Bar-Ilan University with a focus on backen
 
 ### 📬 Connect with Me
 * **LinkedIn:** [linkedin.com/in/avrhambi](https://www.linkedin.com/in/avrhambi/)
+* * **Gmail:** avraham.bicha@gmail.com
