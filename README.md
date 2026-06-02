@@ -1,16 +1,32 @@
-## Hi there 👋
+# Avraham Bicha
+**Junior Software Developer | Backend Engineer**
 
-<!--
-**Avrhambi/Avrhambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate from Bar-Ilan University with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows by responsibly leveraging AI tools like Claude Code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+* **Languages:** Python, Java, SQL
+* **AI Tooling & Automation:** Claude Code, local context management scripts
+* **Environments:** Linux shell scripting
+
+---
+
+### 📂 Featured Projects
+
+**[Sieve](https://github.com/Avrhambi/sieve)**
+* A local context-filtering hook built for Claude Code. It helps streamline terminal-based AI assistance by filtering project files and managing context token efficiency.
+
+**[visper](https://github.com/Avrhambi/visper)**
+* A local audio transcription tool. It features automated hardware self-benchmarking to dynamically select the most efficient backend execution path, supporting 12 languages.
+
+**[JINI](https://github.com/Avrhambi/jini)**
+* An academic project focused on building a Hebrew audio search application, dealing with audio indexing and backend retrieval logic.
+
+**[Utube](https://github.com/Avrhambi/Utube)**
+* A foundational video-sharing application developed to practice object-oriented design patterns and core backend concepts in Java.
+
+---
+
+### 📬 Connect with Me
+* **LinkedIn:** [linkedin.com/in/avrhambi](https://www.linkedin.com/in/avrhambi/)
