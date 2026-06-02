@@ -20,9 +20,6 @@ I am a Computer Science graduate from Bar-Ilan University with a focus on backen
 **[visper](https://github.com/Avrhambi/visper)**
 * A local audio transcription tool. It features automated hardware self-benchmarking to dynamically select the most efficient backend execution path, supporting 12 languages.
 
-**[JINI](https://github.com/Avrhambi/jini)**
-* An academic project focused on building a Hebrew audio search application, dealing with audio indexing and backend retrieval logic.
-
 **[Utube](https://github.com/Avrhambi/Utube)**
 * A foundational video-sharing application developed to practice object-oriented design patterns and core backend concepts in Java.
 
