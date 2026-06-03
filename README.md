@@ -22,9 +22,8 @@ I am a Computer Science graduate focused on backend engineering, systems integra
 **[visper](https://github.com/Avrhambi/visper)**
 * A local audio transcription tool. It features automated hardware self-benchmarking to dynamically select the most efficient backend execution path, supporting 12 languages.
 
-**[Utube](https://github.com/Avrhambi/Utube)**
-* A foundational video-sharing application developed to practice object-oriented design patterns and core backend concepts in Java.
-
+**[JINI](https://github.com/Avrhambi/JINI)**
+* Hebrew audio semantic search mobile application featuring real-time data retrieval.
 ---
 
 ### 📬 Connect with Me
