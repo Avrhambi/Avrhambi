@@ -1,14 +1,16 @@
 # Avraham Bicha
-**Junior Software Developer | Backend Engineer**
+**Junior Software Developer | Full Stack Engineer | Backend Engineer **
 
-I am a Computer Science graduate  with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows.
+I am a Computer Science graduate focused on backend engineering, systems integration, and building practical data-driven tools. I am committed to writing clean, reliable code and optimizing my development workflows.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python, Java, SQL.
-* **AI Tooling & Automation:** Claude Code.
-* **Environments:** Linux shell scripting
+* **Languages:** Python, JavaScript, Java, C, C++, Bash.
+* **DB:** MongoDB (NoSQL), PostgreSQL, Faiss (Vector DB).
+* **Backend:** FastAPI, Node.js, RESTful APIs, Systems Integration, Microservices
+* **AI Tools:** Claude Code.
+* **Environments:** Linux, Windows.
 
 ---
 
