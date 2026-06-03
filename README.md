@@ -1,7 +1,7 @@
 # Avraham Bicha
 **Junior Software Developer | Backend Engineer**
 
-I am a Computer Science graduate from Bar-Ilan University with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows.
+I am a Computer Science graduate  with a focus on backend development and building practical software solutions. I am committed to writing clean, reliable code and optimizing my daily development workflows.
 
 ---
 
