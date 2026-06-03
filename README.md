@@ -9,7 +9,7 @@ I am a Computer Science graduate focused on backend engineering, systems integra
 * **Languages:** Python, JavaScript, Java, C, C++, Bash.
 * **DB:** MongoDB (NoSQL), PostgreSQL, Faiss (Vector DB).
 * **Backend:** FastAPI, Node.js, RESTful APIs, Systems Integration, Microservices
-* **AI Tools:** Claude Code.
+* **AI Tools:** Claude Code, Ollama.
 * **Environments:** Linux, Windows.
 
 ---
