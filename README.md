@@ -16,14 +16,15 @@ I am a Computer Science graduate focused on backend engineering, systems integra
 
 ### 📂 Featured Projects
 
+**[JINI](https://github.com/Avrhambi/JINI)**
+* Hebrew audio semantic search mobile application featuring real-time data retrieval.
+
 **[Sieve](https://github.com/Avrhambi/sieve)**
 * A local context-filtering hook built for Claude Code. It helps streamline terminal-based AI assistance by filtering project files and managing context token efficiency.
 
 **[visper](https://github.com/Avrhambi/visper)**
 * A local audio transcription tool. It features automated hardware self-benchmarking to dynamically select the most efficient backend execution path, supporting 12 languages.
 
-**[JINI](https://github.com/Avrhambi/JINI)**
-* Hebrew audio semantic search mobile application featuring real-time data retrieval.
 ---
 
 ### 📬 Connect with Me
