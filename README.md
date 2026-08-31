@@ -1,5 +1,5 @@
 # Avraham Bicha
-**Backend Engineer | Software Engineer | Full Stack Engineer**
+**Software Engineer | Backend Engineer | Full Stack Engineer**
 
 I am a fresh Computer Science graduate. Focused on backend engineering, systems integration, and building practical data-driven tools. I am committed to writing clean, reliable code and optimizing my development workflows.
 
