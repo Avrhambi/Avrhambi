@@ -6,7 +6,7 @@ I am a fresh Computer Science graduate. Focused on backend engineering, systems 
 ---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python, JavaScript, Java, C, C++, Bash.
+* **Languages:** Python, JavaScript, Java, C/C++, Bash.
 * **DB:** PostgreSQL, MongoDB (NoSQL), Faiss (Vector DB).
 * **Backend:** FastAPI, Node.js, RESTful APIs
 * **AI Tools:** Claude Code,Copilot, Codex.
