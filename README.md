@@ -25,6 +25,8 @@ I am a fresh Computer Science graduate. Focused on backend engineering, systems 
 **[visper](https://github.com/Avrhambi/visper)**
 * A local audio transcription tool. It features automated hardware self-benchmarking to dynamically select the most efficient backend execution path, supporting 12 languages.
 
+**[leetcode-master](https://github.com/Avrhambi/leetcode-master)**
+* A local-first study coach for the NeetCode 150. It turns "grind LeetCode until something sticks" into a directed, adaptive practice loop.
 ---
 
 ### 📬 Connect with Me
